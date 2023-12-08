@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/jithendra0/Documents/100dayspythoncourse/day1",
-      "program": "/home/jithendra0/Documents/100dayspythoncourse/day1/build/Debug/outDebug",
+      "cwd": "/home/jithendra0/Documents/100dayspythoncourse/day03",
+      "program": "/home/jithendra0/Documents/100dayspythoncourse/day03/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
