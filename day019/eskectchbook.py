@@ -1,6 +1,6 @@
 from turtle import Turtle,Screen
 tim = Turtle()
-tim.shape("horse")
+tim.shape("turtle")
 tim.color("red")
 screen = Screen()
 
